@@ -231,4 +231,4 @@ function ScrapSite() {
     })();
 }
 //Discord Bot Token
-client.login(`MTExNDkzMjk0NTc0MDg5ODMwNA.GlEq-X.WlsnYepkr7-lpzIAMBxr7qVEK3sH_XAw3ksJzg`);
+client.login(`MTExNDkzMjk0NTc0MDg5ODMwNA.G5uxNj.JjGnVmTONBRrUnQnkpT8g3otQOVd33lPgSoakM`);
