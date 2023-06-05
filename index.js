@@ -26,7 +26,7 @@ client.on("ready", async () => {
 
 
     //Connecting to mongo db
-    mongoose.connect(`mongodb://mongo:rcWtYcIH6ecnj8z5jBy5@containers-us-west-199.railway.app:6008`, {
+    mongoose.connect(``, {
         useNewUrlParser: true,
         useUnifiedTopology: true,
         useCreateIndex: true,
@@ -231,4 +231,4 @@ function ScrapSite() {
     })();
 }
 //Discord Bot Token
-client.login(`MTExNDkzMjk0NTc0MDg5ODMwNA.G5uxNj.JjGnVmTONBRrUnQnkpT8g3otQOVd33lPgSoakM`);
+client.login(``);
