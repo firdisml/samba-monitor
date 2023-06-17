@@ -25,7 +25,7 @@ client.on("ready", async () => {
 
 
 
-    //Connecting to mongo db
+    //Connecting to mongo db Hafiz
     mongoose.connect(``, {
         useNewUrlParser: true,
         useUnifiedTopology: true,
